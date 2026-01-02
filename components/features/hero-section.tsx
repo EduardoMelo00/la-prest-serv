@@ -19,14 +19,13 @@ export function HeroSection() {
           </div>
 
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-white leading-tight mb-6">
-            <span className="text-brand-red">Construção</span> e{" "}
-            <span className="text-brand-red">Reformas</span> com{" "}
-            Qualidade Garantida
+            <span className="text-brand-red">Drywall, Reforma e Construção</span> em{" "}
+            Florianópolis, Palhoça, São José e Biguaçu
           </h1>
 
           <p className="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl">
-            Drywall, piso laminado, elétrica, hidráulica, pintura, azulejos e muito mais.
-            Transforme sua casa ou empresa com serviços de excelência.
+            Especialistas em drywall, piso laminado, elétrica, hidráulica, pintura, azulejos e reformas completas.
+            Atendimento profissional na Grande Florianópolis com preço justo e qualidade garantida.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4">

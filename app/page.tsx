@@ -4,6 +4,8 @@ import { ServiceCard } from "@/components/features/service-card"
 import { FeatureCard } from "@/components/features/feature-card"
 import { TestimonialsSection } from "@/components/features/testimonials-section"
 import { ContactSection } from "@/components/features/contact-section"
+import { LocationSection } from "@/components/features/location-section"
+import { FAQSection } from "@/components/features/faq-section"
 import { Container } from "@/components/ui/container"
 import { Section } from "@/components/ui/section"
 import { SERVICES, FEATURES, COMPANY_INFO } from "@/lib/constants"
@@ -38,6 +40,10 @@ export default function Home() {
       </Section>
 
       <TestimonialsSection />
+
+      <LocationSection />
+
+      <FAQSection />
 
       <Section id="sobre" dark>
         <Container>
