@@ -4,9 +4,9 @@ export const COMPANY_INFO: CompanyInfo = {
   name: "LA Prest Serv",
   tagline: "Construção e Reformas em Geral",
   description: "Serviços de qualidade em drywall, piso laminado, elétrica, hidráulica, forro de PVC, pintura, azulejos e muito mais. Profissionalismo e dedicação em cada projeto.",
-  phone: "(48) 99999-9999",
-  whatsapp: "5548999999999",
-  whatsappLink: "https://wa.me/5548999999999",
+  phone: "(48) 8810-9690",
+  whatsapp: "554888109690",
+  whatsappLink: "https://wa.me/554888109690",
   location: "Florianópolis e Região",
 }
 
